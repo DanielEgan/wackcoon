@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanielEgan/wackcoon/issues"
   },
-  "homepage": "https://github.com/DanielEgan/wackcoon#readme"
+  "homepage": "https://github.com/DanielEgan/wackcoon#readme",
+  "dependencies": {
+    "raspicam": "^0.2.13"
+  }
 }
