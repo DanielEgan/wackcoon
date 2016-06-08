@@ -1,0 +1,3 @@
+[submodule "wackcoon-device"]
+	path = wackcoon-device
+	url = https://github.com/DanielEgan/wackcoon-device.git
