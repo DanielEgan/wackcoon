@@ -4,3 +4,6 @@
 [submodule "wackcoon-hook"]
 	path = wackcoon-hook
 	url = http://github.com/danielegan/wackcoon-hook
+[submodule "wackcoon-uploader"]
+	path = wackcoon-uploader
+	url = http://github.com/danielegan/wackcoon-uploader
