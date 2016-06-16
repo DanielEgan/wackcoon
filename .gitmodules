@@ -1,9 +1,3 @@
-[submodule "wackcoon-device"]
-	path = wackcoon-device
-	url = https://github.com/DanielEgan/wackcoon-device.git
-[submodule "wackcoon-hook"]
-	path = wackcoon-hook
-	url = http://github.com/danielegan/wackcoon-hook
-[submodule "wackcoon-uploader"]
-	path = wackcoon-uploader
-	url = http://github.com/danielegan/wackcoon-uploader
+[submodule "wackcoon-camera"]
+	path = wackcoon-camera
+	url = https://github.com/DanielEgan/wackcoon-camera.git
