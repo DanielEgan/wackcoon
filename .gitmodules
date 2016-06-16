@@ -7,3 +7,6 @@
 [submodule "wackcoon-hook"]
 	path = wackcoon-hook
 	url = https://github.com/DanielEgan/wackcoon-hook.git
+[submodule "wackcoon-uploader"]
+	path = wackcoon-uploader
+	url = https://github.com/DanielEgan/wackcoon-uploader.git
