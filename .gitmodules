@@ -10,3 +10,9 @@
 [submodule "wackcoon-uploader"]
 	path = wackcoon-uploader
 	url = https://github.com/DanielEgan/wackcoon-uploader.git
+[submodule "wackcoon-hublistener"]
+	path = wackcoon-hublistener
+	url = http://github.com/danielegan/wackcoon-hublistener
+[submodule "wackcoon-web"]
+	path = wackcoon-web
+	url = https://github.com/DanielEgan/wackcoon-web.git
